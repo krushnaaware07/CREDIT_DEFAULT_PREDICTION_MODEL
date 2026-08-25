@@ -1,0 +1,14 @@
+feature,dtype
+Age,int64
+Income,float64
+LoanAmount,float64
+CreditScore,float64
+EmploymentYears,float64
+NumCreditLines,int64
+InterestRate,float64
+LoanTerm,int64
+DTIRatio,float64
+PreviousDefault,int64
+Dependents,int64
+HasMortgage,int64
+HasCoSigner,int64
